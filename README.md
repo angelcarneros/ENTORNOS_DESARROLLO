@@ -1,6 +1,7 @@
 # Entornos de Desarrollo – Tarea: Del código fuente al ejecutable
 # Palabra del día - COMPAÑEROS
-Usuario de GitHub: angelcarneros
+
+Propietario: angel.carneros
 
 ## Descripción del repositorio
 
