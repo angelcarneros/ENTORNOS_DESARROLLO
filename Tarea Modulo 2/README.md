@@ -1,5 +1,9 @@
 # 🎮 Partida Rápida
 
+**Propietario - angelcarneros**
+**Palabra del día -> 29**
+
+
 **Entornos de Desarrollo (1.º DAM/DAW) – Tarea Módulo 2:** Reconocimiento de elementos en el desarrollo de un programa informático
 
 > **¿Quién juega ahora?** Dices a qué te apetece jugar y ves al momento qué amigos se apuntan.
